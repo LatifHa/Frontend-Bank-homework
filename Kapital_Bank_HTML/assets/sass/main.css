@@ -1,0 +1,156 @@
+.container .top p {
+  padding-right: 470px;
+}
+
+.container .tab-links .box {
+  width: 85px;
+  height: 30px;
+  background-color: whitesmoke;
+  border-radius: 37px;
+  margin-right: 10px;
+}
+
+.container .tab-links .box a {
+  color: black;
+  margin: 2px 0px 0px 18px;
+}
+
+.container .popular-card {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  border: 1px solid #eaeaea;
+  height: 300px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.container .popular-card .popular-card-image {
+  margin-right: 2px;
+}
+
+.container .popular-card .popular-card-image a img {
+  width: 250px;
+  margin: 60px 0px 0px 80px;
+}
+
+.container .popular-card .popular-card-info {
+  margin-left: 70px;
+}
+
+.container .popular-card .popular-card-info .hot {
+  margin-top: 15px;
+}
+
+.container .popular-card .popular-card-info .hot b {
+  color: #ff0023;
+  text-transform: uppercase;
+}
+
+.container .popular-card .popular-card-info .Cashback {
+  margin-top: 10px;
+}
+
+.container .popular-card .popular-card-info .Cashback a {
+  color: black;
+}
+
+.container .popular-card .popular-card-info ul li {
+  margin: 40px 80px 0px 0px;
+}
+
+.container .popular-card .popular-card-info .popular-card-button a .button {
+  width: 280px;
+  height: 55px;
+  border-radius: 8px;
+  background-color: #f45369;
+}
+
+.container .popular-card .popular-card-info .popular-card-button a .button span {
+  color: white;
+  margin: 9px 0px 0px 95px;
+}
+
+.container .popular-card .popular-card-info .popular-card-button a .text span {
+  color: black;
+  margin: 15px 0px 0px 30px;
+}
+
+.container h2 {
+  margin-top: 28px;
+}
+
+.container .row .col-lg-4 .box {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  height: 250px;
+  width: 395px;
+  margin-top: 100px;
+}
+
+.container .row .col-lg-4 .box .box-card-image a img {
+  width: 200px;
+  margin: -70px 0px 0px 40px;
+}
+
+.container .row .col-lg-4 .box .box-card-info a h3 {
+  color: black;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.container .row .col-lg-4 .box .box-card-info ul {
+  margin-left: 10px;
+}
+
+.container .row .col-lg-4 .box .box-card-buttons .col-lg-4 {
+  height: 50px;
+}
+
+.container .row .col-lg-4 .box .box-card-buttons .col-lg-4 a b {
+  color: #f45369;
+  margin: 12px 0px 0px 32px;
+}
+
+.container .row .col-lg-4 .box .box-card-buttons .col-lg-8 a span {
+  margin-top: 12px;
+  margin-left: 32px;
+  color: #2E3131CC;
+}
+
+.container #Only-More .box {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  height: 250px;
+  width: 395px;
+  margin-top: 100px;
+}
+
+.container #Only-More .box .box-card-image a img {
+  width: 200px;
+  margin: -70px 0px 0px 40px;
+}
+
+.container #Only-More .box .box-card-info a h3 {
+  color: black;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.container #Only-More .box .box-card-info ul {
+  margin-left: 10px;
+}
+
+.container #Only-More .box .box-card-buttons .col-lg-12 {
+  height: 50px;
+}
+
+.container #Only-More .box .box-card-buttons .col-lg-12 a span {
+  margin-top: 12px;
+  margin-left: 32px;
+  color: #2E3131CC;
+}
+
+.container #Debet {
+  margin-top: 45px;
+}
+/*# sourceMappingURL=main.css.map */
